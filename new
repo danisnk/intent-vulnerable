@@ -1,0 +1,24 @@
+new
+Detector Type: TravisCI
+Decoder Type: PLAIN
+Raw result: WKto9_eZf3lNw28shUfaZC
+Commit: 5bb27f886435539800d01c4078b74e29e5c45c89
+Email: Shady Kube <kube.shadrack.ext@aquasec.com>
+File: travis/travis-ci.py
+Line: 2
+Repository: https://github.com/Plazmaz/leaky-repo.git
+Timestamp: 2024-08-22 17:59:49 +0000
+
+✅ Found verified result 🐷🔑
+Detector Type: Netlify
+Decoder Type: PLAIN
+Raw result: nfp_SeLYT6qhYgfZr85r1XsFgZ2F9Bz4i45bfdf4
+Rotation_guide: https://howtorotate.com/docs/tutorials/netlify/
+Version: 2
+Commit: ae4ffac36402cc8ec1501f4070c7f42c49c1886c
+Email: Shady Kube <kube.shadrack.ext@aquasec.com>
+File: netlifly/netlifly.py
+Line: 2
+Repository: https://github.com/Plazmaz/leaky-repo.git
+Timestamp: 2024-08-13 14:51:06 +0000
+Analyze: Run `trufflehog analyze` to analyze this key's permissions
