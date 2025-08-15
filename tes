@@ -1,0 +1,12 @@
+test
+✅ Found verified result 🐷🔑
+Detector Type: AirtablePersonalAccessToken
+Decoder Type: PLAIN
+Raw result: patBDia5XLOjNAo0z.46ecd8a1c39d404eb5db07cc2c1afaa7db9be048deb2db6165efb4ec6f9c7c9b
+Commit: e2f6e54207ee47137fe158fa1abea8729bc13fc8
+Email: tzurielw <tzubielo@gmail.com>
+File: airtable/airtable-secret.py
+Line: 2
+Repository: https://github.com/Plazmaz/leaky-repo.git
+Timestamp: 2024-08-05 09:36:33 +0000
+Analyze: Run `trufflehog analyze` to analyze this key's permissions
